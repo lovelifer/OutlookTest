@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!--&lt;!&ndash; 获得焦点但未按下时的背景图片 &ndash;&gt;
+    <item android:drawable="@drawable/button_use_pre" android:state_enabled="true" android:state_focused="true" android:state_pressed="false"/>
+    &lt;!&ndash; 按下时的背景图片 &ndash;&gt;
+    <item android:drawable="@drawable/button_use_pre_highlight" android:state_enabled="true" android:state_pressed="true"/>
+    <item android:drawable="@drawable/button_use_pre_highlight" android:state_enabled="true" android:state_focused="true"/>
+    <item android:drawable="@drawable/button_use_pre"/>-->
+</selector>
